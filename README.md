@@ -1,11 +1,11 @@
 ## Hi there. I am Carlos 👋
-Web developer | Entrepreneur  
+Developer | Entrepreneur  
 
 ### About me ###
-* 🎓  Entrepreneur and innovator, graduated in Information Technology Engineering, CEO and founder of [@GeekParkAcademy](https://www.facebook.com/GeekParkAcademy/), a technology education academy, CEO and founder of [@BlueMaker](http://www.bluemaker.com.mx/), a factory software.
+* 🎓  Entrepreneur and innovator, graduated in Information Technology Engineering, CEO and founder of [@GeekParkAcademy](https://www.facebook.com/GeekParkAcademy/), a technology education academy.
 * 👨‍💻  I have participated in various projects together with the Amazon team.
-* 🚀  My areas of interest are: Artificial Intelligence, Big Data and Web Development.
-* ⚡️ Technical skills: JavaScript, Node, MongoDB, Express, Python, Php, React, MySQL, Git, AWS, Bootstrap, etc.
+* 🚀  My areas of interest are: Internet of things, Artificial Intelligence, Big Data and Web Development.
+* ⚡️ Technical skills: NodeJs, MongoDB, Express, Python, Php, React, MySQL, Git, AWS, Bootstrap, etc.
 
 ### My profile overview ###
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CarlosRH7&show_icons=true)
